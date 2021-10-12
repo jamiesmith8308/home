@@ -105,20 +105,20 @@ const skills = {
     { name: "Python", value: 75 },
     { name: "Pandas", value: 75 },
     { name: "R", value: 70 },
-    // { name: "React", value: 65 },
+    { name: "Statistics", value: 65 },
     // { name: "HTML/CSS", value: 55 },
     // { name: "C#", value: 80 },
   ],
-  softSkills: [
-    { name: "Management", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
-  ],
+  // softSkills: [
+  //   { name: "Management", value: 95 },
+  //   { name: "Leadership", value: 90 },
+  //   { name: "Positivity", value: 75 },
+  //   { name: "Adaptability", value: 85 },
+  //   { name: "Problem Solving", value: 75 },
+  //   { name: "Empathy", value: 90 },
+  //   { name: "Organization", value: 70 },
+  //   { name: "Creativity", value: 90 },
+  // ],
 };
 
 // GET IN TOUCH SECTION
