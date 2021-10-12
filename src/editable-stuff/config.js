@@ -100,25 +100,25 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Spreadsheets", value: 95 },
+    { name: "SQL", value: 85 },
+    { name: "Python", value: 75 },
+    { name: "Pandas", value: 75 },
+    { name: "R", value: 70 },
+    // { name: "React", value: 65 },
+    // { name: "HTML/CSS", value: 55 },
+    // { name: "C#", value: 80 },
   ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
-  ],
+  // softSkills: [
+  //   { name: "Management", value: 80 },
+  //   { name: "Collaboration", value: 90 },
+  //   { name: "Positivity", value: 75 },
+  //   { name: "Adaptability", value: 85 },
+  //   { name: "Problem Solving", value: 75 },
+  //   { name: "Empathy", value: 90 },
+  //   { name: "Organization", value: 70 },
+  //   { name: "Creativity", value: 90 },
+  // ],
 };
 
 // GET IN TOUCH SECTION
@@ -126,8 +126,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm always open to expand my professional network. Please feel free to reach out for a virtual coffee chat to connect. Please feel free to email me at",
+  email: "jamiesmith8308@gmail.com",
 };
 
 const experiences = {
